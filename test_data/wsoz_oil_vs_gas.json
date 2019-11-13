@@ -1,0 +1,198 @@
+{
+  "columns": [
+    "CDOIL",
+    "CDGAS"
+  ],
+  "pageDataRows": false,
+  "pageRowSize": 10000,
+  "dataOnRequest": false,
+  "viewRowCount": 5237,
+  "baseTableHints": {
+    "rows": 59426,
+    "visible": 5237,
+    "marked": 0,
+    "tableName": "addpay_staged",
+    "settingName": "addpay_staged"
+  },
+  "data": [
+    {
+      "items": [
+        null,
+        null
+      ],
+      "hints": {
+        "index": 0
+      }
+    },
+    {
+      "items": [
+        null,
+        null
+      ],
+      "hints": {
+        "index": 5219
+      }
+    },
+    {
+      "items": [
+        null,
+        null
+      ],
+      "hints": {
+        "index": 5220
+      }
+    },
+    {
+      "items": [
+        null,
+        null
+      ],
+      "hints": {
+        "index": 5221
+      }
+    },
+    {
+      "items": [
+        50.0,
+        25.0
+      ],
+      "hints": {
+        "index": 5222
+      }
+    },
+    {
+      "items": [
+        null,
+        null
+      ],
+      "hints": {
+        "index": 5223
+      }
+    },
+    {
+      "items": [
+        0,
+        0
+      ],
+      "hints": {
+        "index": 5224
+      }
+    },
+    {
+      "items": [
+        0,
+        0
+      ],
+      "hints": {
+        "index": 5225
+      }
+    },
+    {
+      "items": [
+        0,
+        0
+      ],
+      "hints": {
+        "index": 5226
+      }
+    },
+    {
+      "items": [
+        0,
+        0
+      ],
+      "hints": {
+        "index": 5227
+      }
+    },
+    {
+      "items": [
+        0,
+        0
+      ],
+      "hints": {
+        "index": 5228
+      }
+    },
+    {
+      "items": [
+        0,
+        0
+      ],
+      "hints": {
+        "index": 5229
+      }
+    },
+    {
+      "items": [
+        0,
+        0
+      ],
+      "hints": {
+        "index": 5230
+      }
+    },
+    {
+      "items": [
+        0,
+        0
+      ],
+      "hints": {
+        "index": 5231
+      }
+    },
+    {
+      "items": [
+        0,
+        0
+      ],
+      "hints": {
+        "index": 5232
+      }
+    },
+    {
+      "items": [
+        0,
+        0
+      ],
+      "hints": {
+        "index": 5233
+      }
+    },
+    {
+      "items": [
+        0,
+        0
+      ],
+      "hints": {
+        "index": 5234
+      }
+    },
+    {
+      "items": [
+        0,
+        0
+      ],
+      "hints": {
+        "index": 5235
+      }
+    },
+    {
+      "items": [
+        6.1355357142857141,
+        3.0561785714285712
+      ],
+      "hints": {
+        "index": 5236
+      }
+    }
+  ],
+  "additionalTables": [],
+  "user": "jonesn@calnet.ads",
+  "static": false,
+  "wait": 0,
+  "runtime": {},
+  "legend": true,
+  "config": {},
+  "style": "font-family:\"Roboto\",sans-serif;font-size:12px;font-style:Normal;font-weight:Normal;color:#61646B;background-color:transparent;border-style:None;border-top-color:#FFFFFF;border-right-color:#FFFFFF;border-bottom-color:#FFFFFF;border-left-color:#FFFFFF;border-top-width:0px;border-right-width:0px;border-bottom-width:0px;border-left-width:0px;border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;padding-top:0px;padding-bottom:0px;padding-left:0px;padding-right:0px;margin-top:0px;margin-bottom:0px;margin-left:0px;margin-right:0px;"
+}
