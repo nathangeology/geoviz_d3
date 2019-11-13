@@ -1,6 +1,5 @@
 function makescatter1() {
     console.log('starting!')
-    d3.json('wsoz_oil_vs_gas.json').then(res=>console.log(res.data))
     d3.json('wsoz_oil_vs_gas.json')
         .then(function(data) {
             d3.select("svg")
